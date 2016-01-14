@@ -13,7 +13,8 @@
 7.[(推荐)怎样理解阻塞非阻塞与同步异步的区别？(认知同步IO，异步IO，事件驱动IO多路复用)](https://www.zhihu.com/question/19732473)<br/>
 8.[WebSocket 是什么原理？为什么可以实现持久连接？(真正的push)](https://www.zhihu.com/question/20215561) <br/>
 9.[再谈同步/异步与阻塞/非阻塞](http://www.codedump.info/?hmsr=toutiao.io&p=515&utm_medium=toutiao.io&utm_source=toutiao.io) <br/>
-
+10.[Nginx是如何实现轻量级和高并发](http://www.open-open.com/lib/view/open1403399238309.html) <br/>
+11.[Epoll模型详解(对比select,poll的优点,比如支持更大的fd连接数;不需要遍历fd是否就绪)](http://blog.163.com/huchengsz@126/blog/static/73483745201181824629285/)<br/>
 
 ###Apache相关
 1.[Apache中Httpd.conf详解](http://www.cnblogs.com/sunky/articles/1409267.html)<br/> 
