@@ -32,7 +32,7 @@ http://blog.chinaunix.net/uid-24426415-id-77222.html   <br/>
 http://www.jb51.net/article/33647.htm    <br/> 
 
 ###PHP相关
-1.(推荐)PHP MySQL 持久连接（单纯的Nginx+fpm不能维持DB长连接）<br/>
+1.[(推荐)PHP MySQL 持久连接（单纯的Nginx+fpm不能维持DB长连接）](https://iyaozhen.com/php-mysql_pconnect-discuss.html)<br/>
 https://iyaozhen.com/php-mysql_pconnect-discuss.html<br/> 
 2.php调试利器Xhprof的安装与使用(可供单元测试)<br/>
 http://www.cnblogs.com/chenpingzhao/p/4553384.html   <br/> 
