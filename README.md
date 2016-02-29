@@ -36,8 +36,9 @@
 1.[TCP协议中的三次握手和四次挥手(图解)](http://blog.csdn.net/whuslei/article/details/6667471)<br/>
 2.[(推荐)http状态码304的理解(max-age和304到底有什么作用)](http://my.oschina.net/u/2428791/blog/506220)  <br/> 
 
-###消息队列
+###其他
 1.[RabbitMQ基础概念详细介绍(了解常用的三种Exchange Types，类似广播的fanout,传统的直连direct,正则匹配的topic)](http://blog.csdn.net/whycold/article/details/41119807)<br/>
+2.[(推荐)git的使用](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)<br/>
 
 
 
