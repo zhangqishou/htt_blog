@@ -16,7 +16,7 @@
 10.[Nginx是如何实现轻量级和高并发](http://www.open-open.com/lib/view/open1403399238309.html) <br/>
 11.[Epoll模型详解(对比select,poll的优点,比如支持更大的fd连接数;不需要遍历fd是否就绪)](http://blog.163.com/huchengsz@126/blog/static/73483745201181824629285/)<br/>
 12.[如何理解IO多路复用](https://www.zhihu.com/question/32163005)<br/>
-
+12.[四层和七层负载均衡的区别(四层转发7层代理)](http://kb.cnblogs.com/page/188170/)<br/>
 ###Apache相关
 1.[Apache中Httpd.conf详解](http://www.cnblogs.com/sunky/articles/1409267.html)<br/> 
 2.[Linux下查看Apache的负载情况(可以和Nginx+php-fpm进行压测对比，观察两者内存情况和QPS)](http://blog.chinaunix.net/uid-24426415-id-77222.html) <br/> 
