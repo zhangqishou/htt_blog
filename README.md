@@ -17,6 +17,9 @@
 11.[Epoll模型详解(对比select,poll的优点,比如支持更大的fd连接数;不需要遍历fd是否就绪)](http://blog.163.com/huchengsz@126/blog/static/73483745201181824629285/)<br/>
 12.[如何理解IO多路复用](https://www.zhihu.com/question/32163005)<br/>
 13.[四层和七层负载均衡的区别(四层转发7层代理)](http://kb.cnblogs.com/page/188170/)<br/>
+14.[又见KeepAlive(http的keep-alive和tcp的KeepAlive是两个完全不同的概念)](http://blog.sina.com.cn/s/blog_e59371cc0102ux5w.html)<br/>
+15.[Nginx实战系列之功能篇----后端节点健康检查](http://www.tuicool.com/articles/vuiQry)<br/>
+
 
 ###Apache相关
 1.[Apache中Httpd.conf详解](http://www.cnblogs.com/sunky/articles/1409267.html)<br/> 
