@@ -19,6 +19,9 @@
 13.[四层和七层负载均衡的区别(四层转发7层代理)](http://kb.cnblogs.com/page/188170/)<br/>
 14.[又见KeepAlive(http的keep-alive和tcp的KeepAlive是两个完全不同的概念)](http://blog.sina.com.cn/s/blog_e59371cc0102ux5w.html)<br/>
 15.[Nginx实战系列之功能篇----后端节点健康检查](http://www.tuicool.com/articles/vuiQry)<br/>
+16.[使用socket方式连接Nginx优化php-fpm性能](https://blog.linuxeye.com/364.html)<br/>
+17.[nginx+php产生大量TIME_WAIT(nginx与后端fastcgi短链，TCP关闭时2MSL TIME_WAIT时间过长)](http://leven.blog.51cto.com/1675811/382097)<br/>
+18.[Nginx1.1.4+ 对后端机器的长连接特性(可解决过多的TIME_WAIT,减少负载)](http://zhangxugg-163-com.iteye.com/blog/1551269)<br/>
 
 
 ###Apache相关
