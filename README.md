@@ -22,7 +22,7 @@
 16.[使用socket方式连接Nginx优化php-fpm性能](https://blog.linuxeye.com/364.html)<br/>
 17.[nginx+php产生大量TIME_WAIT(nginx与后端fastcgi短链，TCP关闭时2MSL TIME_WAIT时间过长)](http://leven.blog.51cto.com/1675811/382097)<br/>
 18.[Nginx1.1.4+ 对后端机器的长连接特性(可解决过多的TIME_WAIT,减少负载)](http://zhangxugg-163-com.iteye.com/blog/1551269)<br/>
-
+19.[php-fpm的max_chindren的一些误区](http://www.linuxidc.com/Linux/2014-12/110964.htm)<br/>
 
 ###Apache相关
 1.[Apache中Httpd.conf详解](http://www.cnblogs.com/sunky/articles/1409267.html)<br/> 
